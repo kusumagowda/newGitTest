@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/jar_files (2).zip"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/kfs-0.3.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/jsp-api-2.1-glassfish-2.1.v20091210.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/ecj-3.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop/avro-1.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/csv/opencsv-3.4.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/csv/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/jar_files (1).zip"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/jar_files.zip"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop-mapreduce-all-allllllll.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/hadoop-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/kusuma/softwares/eclipse/jars/commons-cli-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
